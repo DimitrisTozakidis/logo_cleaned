@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 800 800"
+   version="1.1"
+   sodipodi:docname="atlanta-united.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.06375"
+     inkscape:cx="400.47004"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#2d2a26}.cls-2{fill:#aa9767}.cls-4{fill:#716134}</style>
+  </defs>
+  <g
+     id="ATL-Logo">
+    <path
+       d="M746 400c0 191.09-154.92 346-346 346S54 591.09 54 400 208.91 54 400 54s346 154.91 346 346"
+       class="cls-1"
+       id="path1" />
+    <path
+       d="M400 738.27a338 338 0 0 1-239-576.94 338 338 0 1 1 478 478 335.75 335.75 0 0 1-239 98.94m0-667.62c-181.78 0-329.66 147.88-329.66 329.66S218.22 730 400 730s329.66-147.92 329.66-329.69S581.78 70.65 400 70.65"
+       class="cls-2"
+       id="path2" />
+    <path
+       d="M257 224.17a226.57 226.57 0 0 0 0 351.66Zm285.15-.68v353a226.47 226.47 0 0 0 0-353m-89.49 396.85V179.66a219.9 219.9 0 0 0-106.22.24v440.2a219.9 219.9 0 0 0 106.22.24"
+       style="fill:#a32035"
+       id="path3" />
+    <path
+       d="m466.83 272.81 22-44.21H310.79l22 44.22-95.08 282 86.3 56.57 18-51.23h116.6L475.14 611l87.46-56.37Zm-90.74 186.78L399.94 388l24.6 71.64Z"
+       class="cls-1"
+       id="path4" />
+    <path
+       d="m457.89 272.2 17.69-35.39h-151.5l17.68 35.39-96.59 286.45 33.32 31.13 17.3 8.15 20.94 9.33 19.42-55.41h128.47l18.7 57.53 35.3-18.9 37-30.58Zm-93.27 195.67 35.2-105.73 36.29 105.74Z"
+       class="cls-2"
+       id="path5" />
+    <path
+       d="m364.62 467.87-58.6 42.04L400 236.62l93.98 273.29-57.87-42.03-36.29-105.74z"
+       class="cls-4"
+       id="path6" />
+    <path
+       d="m281.23 582.02 24.79-72.11h187.96l24.21 70.42-37.28 21.65-16.29-50.13H336.15l-17.5 49.91z"
+       class="cls-4"
+       id="path7" />
+    <path
+       d="M400 629.52c-126.57 0-229.53-103-229.53-229.52S273.44 170.48 400 170.48 629.52 273.44 629.52 400 526.56 629.52 400 629.52m0-449.7c-121.42 0-220.2 98.77-220.2 220.18S278.59 620.19 400 620.19 620.19 521.41 620.19 400 521.41 179.82 400 179.82"
+       class="cls-2"
+       id="path8" />
+    <path
+       d="M400 621.23C278 621.23 178.76 522 178.76 400S278 178.77 400 178.77 621.24 278 621.24 400 522 621.23 400 621.23M400 187c-117.43 0-213 95.54-213 213s95.54 213 213 213 213-95.54 213-213-95.56-213-213-213"
+       class="cls-4"
+       id="path9" />
+    <path
+       d="m 630.85,249.88 c 53.00057,81.67117 59.02798,185.23164 15.86,272.5 l 7.53,3.75 c 45.2462,-91.43052 38.02958,-200.09579 -18.91,-284.74 z m -461.85,0 c -53.0144,81.66663 -59.04224,185.23454 -15.86,272.5 l -7.54,3.75 C 100.35085,434.70125 107.56365,326.03605 164.5,241.39 Z"
+       class="cls-2"
+       id="path10"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>

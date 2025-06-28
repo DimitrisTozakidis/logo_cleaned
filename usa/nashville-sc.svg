@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 800 800"
+   version="1.1"
+   sodipodi:docname="nashville-sc.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.06375"
+     inkscape:cx="400.47004"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-2{fill:#1f1646}</style>
+  </defs>
+  <path
+     d="M500.69 23.76h-198.3L138 160.85v480.82l164.39 137.09h198.3l164.39-137.09V160.85z"
+     style="fill:#ece83a"
+     id="path1" />
+  <path
+     d="M494.1 41.86 646.93 169.3v463.92L494.1 760.66H309L156.15 633.22V169.3L309 41.86zm3.28-9.07H305.7L147.09 165.06v472.4L305.7 769.73h191.68L656 637.46v-472.4l-3.26-2.72z"
+     class="cls-2"
+     id="path2" />
+  <path
+     d="M 365.18,490.15 V 343.71 l 68.96,146.44 h 40.11 L 328.82,181.31 V 490.15 Z M 437.9,96.06 V 242.5 L 368.94,96.06 H 328.82 L 474.25,404.89 V 96.06 Z m -172.69,49.26 h 27.26 v 295.56 h -27.26 z m -54.53,49.26 h 18.18 V 391.62 H 210.68 Z M 537.87,440.89 H 510.61 V 145.33 h 27.26 z M 592.4,391.63 H 574.22 V 194.59 h 18.18 z"
+     class="cls-2"
+     id="path3"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+</svg>

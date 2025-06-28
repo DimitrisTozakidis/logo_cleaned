@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 800 800"
+   version="1.1"
+   sodipodi:docname="houston-dynamo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.06375"
+     inkscape:cx="400.47004"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip-path">
+      <path
+         id="SVGID"
+         d="M75.8 3h648.39v794H75.8z"
+         style="fill:none" />
+    </clipPath>
+    <style
+       id="style1">.cls-4{fill:#ff6b00}</style>
+  </defs>
+  <g
+     style="clip-path:url(#clip-path)"
+     clip-path="url(#clip-path)"
+     id="g1">
+    <path
+       d="M722.76 200.43 401.58 3.45a3 3 0 0 0-3.16 0l-321.17 197A3 3 0 0 0 75.8 203v394a3 3 0 0 0 1.45 2.57l321.17 197a3 3 0 0 0 3.16 0l321.18-197a3 3 0 0 0 1.44-2.57V203a3 3 0 0 0-1.44-2.58"
+       style="fill:#101820"
+       id="path1" />
+  </g>
+  <path
+     d="M400 776.37 93.33 588.28V211.72L400 23.63l306.67 188.09v376.56ZM105 581.29l295 180.94 295-180.94V218.71L400 37.77 105 218.71Z"
+     class="cls-4"
+     id="path2" />
+  <path
+     d="m511.59 175.32 14.31-14.31-8.17-8.19-17.71 17.71v26.64h11.57zm-33.06 21.85h11.57v-26.64l-17.71-17.7-8.18 8.18 14.32 14.31zM305.5 218.66v-11.57h-63.43l-22.25-22.55-8.18 8.18 25.94 25.94zm244.28-11.57H358.41v11.57h186.58l38.87 38.86v89.22l-39.18 39.17h-23.27v11.57h28.06l45.96-45.94v-98.81zm-81.17 178.82H237.58l-25.94 25.63 8.18 8.49 22.55-22.56h226.24zM237.58 228.58h11.57v147.41h-11.57zm67.92 11.57v-11.57h-46.43v147.41h209.54v-11.57H270.63V240.15z"
+     class="cls-4"
+     id="path3" />
+  <path
+     d="M535.73 364.42h-14.31v11.57h19.1l33.42-33.42v-81.01l-33.01-32.98H358.41v11.57h177.73l26.21 26.21v71.41zm-220.3 64.82-14.32 14.31 8.18 8.19L327 434.03V407.4h-11.57zm33.06-21.84h-11.57v26.63l17.7 17.7 8.18-8.17-14.31-14.32z"
+     class="cls-4"
+     id="path4" />
+  <path
+     d="M478.54 285.75H348.49V175.32l14.31-14.31-8.17-8.18-17.71 17.7v126.79h153.19v-47.25h-11.57zM336.92 354.5h11.57v-35.69h130.05v110.43l-14.32 14.32 8.18 8.17 17.7-17.7V307.25H336.92zm174.63-30.85 21.37-21.37-21.32-21.32v-30.89h-11.57v35.68l16.53 16.53-16.57 16.58v115.03l17.7 17.7 8.18-8.17-14.32-14.32zm-196.12-42.39-21.03 21.03 21.01 21v31.21h11.57v-36l-16.22-16.21L327 286.05V170.53l-17.71-17.7-8.18 8.18 14.32 14.31zm120.88 396.22h-28.57l19.82-40.17-47.64 52.03h28.57l-19.82 40.17z"
+     class="cls-4"
+     id="path5" />
+</svg>
