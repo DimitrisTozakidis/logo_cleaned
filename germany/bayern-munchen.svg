@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg5"
+   width="850.395"
+   height="850.395"
+   version="1.1"
+   sodipodi:docname="bayern-munchen.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.94897075"
+     inkscape:cx="425.19751"
+     inkscape:cy="425.19751"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip-path">
+      <path
+         id="path2"
+         d="M136.03 136.03H430.9V430.9H136.03Z"
+         style="fill:none" />
+    </clipPath>
+    <style
+       id="style1">.cls-2{fill:#0066b2}.cls-3{fill:#fff}</style>
+  </defs>
+  <g
+     id="g5"
+     transform="scale(1.5)">
+    <g
+       id="Ringe">
+      <path
+         id="path3"
+         d="M283.46 0C126.91 0 0 126.91 0 283.46s126.91 283.47 283.46 283.47S566.93 440 566.93 283.46 440 0 283.46 0"
+         class="cls-2"
+         style="fill:#286cfd;fill-opacity:1" />
+      <path
+         id="path4"
+         d="M283.46 14.17c-148.72 0-269.29 120.57-269.29 269.29s120.57 269.3 269.29 269.3 269.3-120.57 269.3-269.3S432.19 14.17 283.46 14.17"
+         class="cls-3" />
+      <path
+         id="path5"
+         d="M283.46 26.93c-141.68 0-256.53 114.86-256.53 256.53S141.79 540 283.46 540 540 425.15 540 283.46 425.15 26.93 283.46 26.93m0 416.69a160.16 160.16 0 1 1 160.16-160.16 160.15 160.15 0 0 1-160.16 160.16"
+         style="fill:#ed0038;fill-opacity:1" />
+    </g>
+    <path
+       id="Rapport"
+       d="M142.65 327a146.8 146.8 0 0 0 32.5 56.43V317l-37.56-54.87a146.84 146.84 0 0 0 5.06 64.87m75.82 52.65v-76.07l-43-62.81v-57.61a147.8 147.8 0 0 0-20.54 28.21l20.2 29.51V317l43 62.8v35.76A148 148 0 0 0 251 427.23Zm43.33-89.52 43 62.8v76.11l-43-62.81v-76.06l-43-62.81v-76.11l43 62.8zm43.33-13.41-43-62.81v-76.07l43 62.81v76.11l43 62.81v76.11l-43-62.81zm-65.24-134.07A146.8 146.8 0 0 0 183 175.59l35.51 51.87v76.11l43 62.8v62.86A147.7 147.7 0 0 0 384 391.34l-35.51-51.87v-76.12l-43-62.81v-62.86a146.8 146.8 0 0 0-65.58 5m151.9 183.4v-76.14l-43-62.81v-35.75a148 148 0 0 0-32.88-11.68l32.54 47.54v76.11l43 62.81v57.61a147.8 147.8 0 0 0 20.53-28.2Zm32.49-86.17a146.84 146.84 0 0 0-32.49-56.43v66.49l37.55 54.86a146.8 146.8 0 0 0-5.06-64.92"
+       class="cls-2"
+       style="clip-path:url(#clip-path);fill:#286cfd;fill-opacity:1"
+       clip-path="url(#clip-path)" />
+  </g>
+</svg>

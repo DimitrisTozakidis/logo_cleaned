@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="316"
+   height="316"
+   version="1.2"
+   viewBox="0 0 237 237"
+   id="svg6"
+   sodipodi:docname="fc-kaiserslautern.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.5537975"
+     inkscape:cx="158"
+     inkscape:cy="158"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="d">
+      <path
+         d="M412.71 636.96h60.582v60.582H412.71z"
+         id="path1" />
+    </clipPath>
+  </defs>
+  <g
+     fill="#fff"
+     id="g4">
+    <use
+       xlink:href="#a"
+       width="100%"
+       height="100%"
+       x="377.843"
+       y="43.362"
+       id="use1" />
+    <use
+       xlink:href="#b"
+       width="100%"
+       height="100%"
+       x="163.205"
+       y="660.403"
+       id="use2" />
+    <use
+       xlink:href="#b"
+       width="100%"
+       height="100%"
+       x="176.758"
+       y="660.403"
+       id="use3" />
+    <use
+       xlink:href="#c"
+       width="100%"
+       height="100%"
+       x="176.773"
+       y="686.581"
+       id="use4" />
+  </g>
+  <g
+     clip-path="url(#d)"
+     transform="translate(-1589.5 -2454.6)scale(3.8559)"
+     id="g5">
+    <path
+       fill="#fff"
+       d="M443.01 636.96c16.727 0 30.289 13.562 30.289 30.289 0 16.73-13.562 30.293-30.289 30.293-16.73 0-30.293-13.562-30.293-30.293 0-16.727 13.562-30.289 30.293-30.289"
+       id="path4" />
+  </g>
+  <path
+     fill="#e30511"
+     d="m 118.702,7.7 c 61.062,0 110.557,49.51 110.557,110.572 0,61.078 -49.495,110.572 -110.557,110.572 C 57.625,228.844 8.13,179.35 8.13,118.272 8.13,57.21 57.625,7.701 118.702,7.701"
+     id="path5"
+     sodipodi:nodetypes="csssc" />
+  <path
+     fill="#ffffff"
+     d="M 131.543,90.718 V 16.762 h -24.581 c -2.048,0.226 -5.197,5.196 -7.23,6.718 -2.32,1.747 -4.925,2.575 -7.757,3.328 -0.677,0.181 -1.988,0.257 -2.003,1.055 v 16.402 h 11.583 v 46.452 h 29.10796 v 49.402 c -6.266,-1.13 -10.97296,-1.551 -17.55496,-1.46 -2.817,0.044 -4.775,0.33 -8.36,0.752 -0.979,0.166 -2.214,0.317 -3.193,0.467 v -19.43 H 56.081 v -6.206 h 45.473 V 90.715 H 25.851 v 78.653 h 30.23 V 142.33 H 92.2 c -0.317,0.181 -7.456,2.35 -15.032,10.032 -10.484,10.649 -12.29,32.79 -3.434,45.534 2.5,3.615 5.543,6.808 9.172,9.248 10.468,7.004 23.287,9.173 37.083,9.173 3.284,-0.256 5.92,-0.467 9.595,-1.205 8.284,-2.063 10.574,-3.118 15.62,-6.567 5.964,-4.067 12.501,-14.806 13.375,-24.19 H 128.83 c -0.226,3.555 -1.626,6.492 -4.413,8.616 -5.738,4.383 -16.914,3.645 -21.418,-1.958 -6.658,-8.3 -6.206,-23.407 2.41,-29.853 2.033,-1.537 4.263,-2.666 7.215,-2.952 2.259,-0.181 2.184,-0.241 3.178,-0.136 4.594,0.482 9.007,1.988 11.417,5.965 0.497,0.828 1.747,3.72 2.018,5.332"
+     id="path6"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 566 566"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="napoli.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4257951"
+     inkscape:cx="283"
+     inkscape:cy="283"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <circle
+     cx="283"
+     cy="283"
+     r="283"
+     fill="#003E81"
+     id="circle1" />
+  <path
+     fill="#FFF"
+     d="M74.694 283C74.698 167.955 167.955 74.698 283 74.694c115.044.004 208.302 93.261 208.305 208.306-.003 115.044-93.261 208.302-208.305 208.305C167.955 491.302 74.698 398.044 74.694 283"
+     id="path1" />
+  <path
+     fill="#199fd6"
+     d="M 141.658,141.658 C 105.477,177.842 83.113,227.788 83.111,283 c 0.002,55.211 22.366,105.156 58.547,141.342 36.185,36.18 86.13,58.544 141.342,58.546 55.211,-0.002 105.156,-22.366 141.342,-58.546 C 460.522,388.156 482.886,338.211 482.888,283 482.886,227.789 460.522,177.844 424.342,141.658 388.156,105.477 338.211,83.113 283,83.111 227.788,83.113 177.843,105.477 141.658,141.658"
+     id="path2"
+     sodipodi:nodetypes="ccccccccc" />
+</svg>
