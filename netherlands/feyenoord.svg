@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Feyenoord Logo RGB"
+   viewBox="0 0 999.99 999.98"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="feyenoord.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.80701616"
+     inkscape:cx="499.98999"
+     inkscape:cy="499.98999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M0 500.62C-.33 224.46 223.22.34 499.39 0c276.14-.34 500.25 223.24 500.6 499.4.33 276.13-223.25 500.25-499.39 500.58C224.44 1000.32.34 776.75 0 500.62"
+     style="fill:#b0a072;stroke-width:0"
+     id="path1" />
+  <circle
+     cx="500"
+     cy="499.99"
+     r="478.44"
+     style="fill:#000;stroke-width:0"
+     id="circle1" />
+  <circle
+     cx="500"
+     cy="499.99"
+     r="345.05"
+     style="fill:#b0a072;stroke-width:0"
+     id="circle2" />
+  <circle
+     cx="500"
+     cy="499.99"
+     r="327.49"
+     style="fill:#fff;stroke-width:0"
+     id="circle3" />
+  <path
+     d="M500 172.51c-180.87 0-327.49 146.62-327.49 327.49S319.13 827.49 500 827.49z"
+     style="fill:red;stroke-width:0"
+     id="path3" />
+  <path
+     d="m 90.14,525.88 c 12.51,-0.02 22.62,-10.18 22.61,-22.68 -0.02,-12.52 -10.16,-22.64 -22.67,-22.62 -12.52,0.02 -22.66,10.16 -22.64,22.68 0.02,12.5 10.17,22.64 22.7,22.62 m 819.05,0 c 12.5,-0.02 22.62,-10.18 22.61,-22.68 -0.02,-12.52 -10.16,-22.64 -22.67,-22.62 -12.52,0.02 -22.66,10.16 -22.64,22.68 0.02,12.5 10.17,22.64 22.71,22.62 m -383.14,430.75 -69.67,-1.71 z"
+     style="fill:#b0a072;stroke-width:0"
+     id="path4"
+     sodipodi:nodetypes="ccsscccsscccccc" />
+</svg>
