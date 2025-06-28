@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="350"
+   height="348.69"
+   version="1.0"
+   id="svg5"
+   sodipodi:docname="sao-paulo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.3143767"
+     inkscape:cx="175.20916"
+     inkscape:cy="174.345"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     d="M73.294 345.774H280v79.882l-103.353 126-103.353-126z"
+     style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#000;stroke-width:1.57790887;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(1.58438 0 0 1.58438 -104.875 -536.588)"
+     id="path1" />
+  <path
+     d="M83.382 356.813h186.529v54.51H83.382z"
+     style="fill:#000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+     transform="matrix(1.58438 0 0 1.58438 -104.875 -536.588)"
+     id="path2" />
+  <path
+     d="M83.794 421.127h76.588v93.882z"
+     style="fill:#fe0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(1.58438 0 0 1.58438 -104.875 -536.588)"
+     id="path3" />
+  <path
+     d="M269.088 421.127H192.5v93.882z"
+     style="fill:#000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(1.58438 0 0 1.58438 -104.875 -536.588)"
+     id="path4" />
+</svg>
